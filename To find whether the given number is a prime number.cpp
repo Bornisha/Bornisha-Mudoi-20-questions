@@ -1,3 +1,4 @@
+// This code is developed by Bornisha Mudoi
 #include <iostream>
 using namespace std;
 int main () {
@@ -21,4 +22,5 @@ else
 cout <<num <<"is not a Prime number." <<
 endl;
 return 0;
+
 }
