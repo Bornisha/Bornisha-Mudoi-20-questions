@@ -1,3 +1,4 @@
+//This code is developed by Bornisha Mudoi
 #include <iostream>
 #include <cmath>
 using namespace std;
@@ -42,4 +43,5 @@ int main() {
     cout << "Approximate integral value = " << result << endl;
 
     return 0;
+
 }
