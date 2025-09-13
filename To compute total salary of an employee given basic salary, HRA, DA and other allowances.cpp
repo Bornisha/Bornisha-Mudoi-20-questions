@@ -1,3 +1,4 @@
+//This code is developed by Bornisha Mudoi
 #include <iostream>
 using namespace std;
 
@@ -30,4 +31,5 @@ int main() {
     cout << "Total Salary     : " << total << endl;
 
     return 0;
+
 }
