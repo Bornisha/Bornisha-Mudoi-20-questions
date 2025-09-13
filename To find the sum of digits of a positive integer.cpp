@@ -1,3 +1,4 @@
+// This code is developed by Bornisha Mudoi
 #include <iostream>
 using namespace std;
 
@@ -16,4 +17,5 @@ int main() {
     cout << "Sum of digits = " << sum << endl;
 
     return 0;
+
 }
