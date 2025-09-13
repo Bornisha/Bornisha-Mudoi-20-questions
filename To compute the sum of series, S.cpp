@@ -1,3 +1,4 @@
+// This code is developed by Bornisha Mudoi
 #include <iostream>
 using namespace std;
 
@@ -14,4 +15,5 @@ int main() {
 
     cout << "Sum of series up to " << n << " terms = " << sum << endl;
     return 0;
+
 }
