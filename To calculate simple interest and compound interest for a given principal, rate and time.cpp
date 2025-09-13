@@ -1,3 +1,4 @@
+//This code is developed by Bornisha Mudoi
 #include <iostream>
 #include <cmath>  // for pow() function
 using namespace std;
@@ -25,4 +26,5 @@ int main() {
     cout << "Compound Interest = " << compoundInterest << endl;
 
     return 0;
+
 }
