@@ -1,3 +1,4 @@
+//This code is developed by Bornisha Mudoi
 #include <iostream>
 #include <cmath>
 #include <iomanip>
@@ -95,4 +96,5 @@ int main() {
     newton_raphson(x0, tol, max_iter);
 
     return 0;
+
 }
