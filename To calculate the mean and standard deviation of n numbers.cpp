@@ -1,3 +1,4 @@
+//This code is developed by Bornisha Mudoi
 #include <iostream>
 #include <cmath>   // For sqrt()
 
@@ -33,4 +34,5 @@ int main() {
     cout << "Standard Deviation = " << stddev << endl;
 
     return 0;
+
 }
